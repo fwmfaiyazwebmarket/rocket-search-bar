@@ -73,3 +73,6 @@ section .main .searchBx .icons img
    border: none;
    background: linear-gradient(skyblue, orange);                 
 }
+.rocket{
+    color: rgb(1, 82, 148 , 9);
+}
